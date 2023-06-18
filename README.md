@@ -1,6 +1,6 @@
 ## PC
 
-### Turn On - Cloud Shell - Default Mode
+### Check Mark - Trust repo
 
 - [Google Account One](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/jahidrdpschool/pc-cloud-shell&page=editor&tutorial=multiple-pc.md&shellonly=true&show=terminal&authuser=1)
 - [Google Account Two](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/jahidrdpschool/pc-cloud-shell&page=editor&tutorial=multiple-pc.md&shellonly=true&show=terminal&authuser=2)
