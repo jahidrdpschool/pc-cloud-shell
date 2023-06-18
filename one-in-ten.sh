@@ -12,4 +12,4 @@ download_and_run() {
 for i in {1..10}; do
   port=$((8000 + i))
   download_and_run $port $i
-Done
+done
