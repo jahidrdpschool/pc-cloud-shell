@@ -1,4 +1,4 @@
-# Ten PC
+# Multiple PC
 
 ## Try running a command now:
 
