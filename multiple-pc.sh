@@ -1,4 +1,5 @@
 clear
+
 download_and_run() {
   local port=$1
   local index=$2
@@ -10,7 +11,9 @@ download_and_run() {
   echo "Access Link: https://shell.cloud.google.com/devshell/proxy?authuser=1&port=$port&environment_id=default"
 }
 
-for i in {1..10}; do
+read -p "Enter the number of PC: " PC
+
+for ((i = 1; i <= PC; i++)); do
   port=$((8000 + i))
   download_and_run $port $i
 done
