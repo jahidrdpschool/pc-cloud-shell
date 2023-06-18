@@ -1,49 +1,50 @@
-# JPRQ
 
-## Download 1st Time
+## JPRQ
+
+### Download 1st Time
 ```bash
 curl -fsSL https://jprq.io/install.sh | sudo bash
 ```
 - First obtain auth token from [jprq.io/auth](https://jprq.io/auth), then
 
-## Your Auth Token
+### Your Auth Token
 ```bash
 jprq auth <your-auth-token>
 ```
 
-## Run
+### Run
 ```bash
 jprq http 6079 -s custom
 ```
 
 
-# Ngrok
+## Ngrok
 
-## Download 1st Time
+### Download 1st Time
 ```bash
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 ```
 
-## Unzip 1st Time
+### Unzip 1st Time
 ```bash
 unzip ngrok-stable-linux-amd64.zip
 ```
 
-## Ngrok Auth Token (Optional)
+### Ngrok Auth Token (Optional)
 ```bash
 ./ngrok authtoken YOUR_AUTH_TOKEN
 
 ```
 
-## Run
+### Run
 ```bash
 ./ngrok http 6079
 ```
 
 
-# Serveo
+## Serveo
 
-## Run
+### Run
 ```bash
 ssh -R 80:localhost:6079 serveo.net
 ```
