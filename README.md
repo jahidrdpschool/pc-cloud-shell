@@ -1,6 +1,6 @@
 ## PC
 
-- [Google Account One in Ten](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/jahidrdpschool/pc-cloud-shell&page=editor&tutorial=one-in-tutorial.md&shellonly=true&show=terminal&authuser=1)
+- [Google Account One in Ten](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/jahidrdpschool/pc-cloud-shell&page=editor&tutorial=one-in-ten.md&shellonly=true&show=terminal&authuser=1)
 
 - [Google Account Zero](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/jahidrdpschool/pc-cloud-shell&page=editor&tutorial=tutorial.md&shellonly=true&show=terminal&authuser=0)
 - [Google Account One](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/jahidrdpschool/pc-cloud-shell&page=editor&tutorial=tutorial.md&shellonly=true&show=terminal&authuser=1)
