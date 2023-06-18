@@ -14,7 +14,7 @@ echo "usually https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8080
 ```
 
 ```bash
-chmod +x script.sh
-./script.sh
+chmod +x one-in-ten.sh
+./one-in-ten.sh
 clear
 ```
