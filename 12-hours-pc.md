@@ -9,6 +9,10 @@
       docker rmi $(docker images -q)
       clear
       docker run -p 8080:80 -e RESOLUTION=1400x720 -d dorowu/ubuntu-desktop-lxde-vnc
+      clear
+      echo ""
+      echo "Access Link $index: https://shell.cloud.google.com/devshell/proxy?authuser=1&port=$port&environment_id=default"
+      echo ""
       ```
   3. Wait for the container to start.
   4. Open this URL in a new tab of your web browser:
