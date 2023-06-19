@@ -1,7 +1,7 @@
   # Multiple Ubuntu Desktop Instances Tutorial
 
   ## Step 1: Launch the first Ubuntu Desktop instance
-  1. Open Google Cloud [Shell](https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=terminal).
+  1. Open Google Cloud [Shell](https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=terminal&authuser=1).
   2. Run this command:
       ```bash
       docker kill $(docker ps -q)
