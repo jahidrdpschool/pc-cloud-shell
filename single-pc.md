@@ -28,6 +28,7 @@ docker run -p 8080:80 -e RESOLUTION=1400x720 -v /dev/shm:/dev/shm dorowu/ubuntu-
 
 Or
 
+```bash
 docker kill $(docker ps -q)
 docker rm $(docker ps -a -q)
 docker rmi $(docker images -q)
@@ -38,3 +39,4 @@ echo "Downloaded, running"
 echo "usually https://localhost:6080"
 echo "Or"
 echo "usually https://shell.cloud.google.com/devshell/proxy?authuser=1&port=6080&environment_id=default"
+```
