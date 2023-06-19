@@ -25,6 +25,10 @@
       ```
   3. Open a new terminal and run this command to start a new Ubuntu Desktop container:
       ```bash
+      clear
+      echo ""
+      echo "Access Link: https://localhost:8011"
+      echo ""
       docker run -p 8011:80 -e RESOLUTION=1400x720 -v /dev/shm:/dev/shm dorowu/ubuntu-desktop-lxde-vnc
       ```
   4. Open a new tab in your web browser and go to:
