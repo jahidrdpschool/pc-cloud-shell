@@ -1,7 +1,7 @@
   # Multiple Ubuntu Desktop Instances Tutorial
 
   ## Step 1: Launch the first Ubuntu Desktop instance
-  1. Open (Google Cloud Shell)[shell.cloud.google.com/?show=ide%2Cterminal].
+  1. Open [Google Cloud Shell](shell.cloud.google.com/?show=ide%2Cterminal).
   2. Run this command:
       ```bash
       docker run -p 8080:80 -e RESOLUTION=1400x720 -d dorowu/ubuntu-desktop-lxde-vnc
