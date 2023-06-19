@@ -40,7 +40,6 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       ```
   4. Open https://localhost:8011 this URL in a new tab of web browser
 
-  5. This will open another Ubuntu Desktop instance in a new tab.
 
   ## Step 3: Automate launching multiple Ubuntu Desktop instances
   1. Open a new terminal in Google Cloud Shell.
