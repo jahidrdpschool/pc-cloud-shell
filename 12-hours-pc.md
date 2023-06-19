@@ -11,7 +11,7 @@
       docker run -p 8080:80 -e RESOLUTION=1400x720 -d dorowu/ubuntu-desktop-lxde-vnc
       clear
       echo ""
-      echo "Access Link $index: https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8080&environment_id=default"
+      echo "Access Link: https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8080&environment_id=default"
       echo ""
       ```
   3. Wait for the container to start.
