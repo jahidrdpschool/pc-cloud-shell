@@ -11,15 +11,11 @@
       docker run -p 8080:80 -e RESOLUTION=1400x720 -d dorowu/ubuntu-desktop-lxde-vnc
       clear
       echo ""
-      echo "Access Link: https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8080&environment_id=default"
+      echo "Access Link: https://localhost:8080"
       echo ""
       ```
   3. Wait for the container to start.
-  4. Open this URL in a new tab of your web browser:
-      ```
-      https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8080&environment_id=default
-      ```
-  5. You can now interact with the Ubuntu Desktop environment.
+  4. Open this URL in a new tab of your web browser
 
   ## Step 2: Launch additional Ubuntu Desktop instances
   1. Close the Google Cloud Shell tab, but keep the Ubuntu Desktop tab open.
