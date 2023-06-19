@@ -4,6 +4,10 @@
   1. Open [Google Cloud Shell](https://shell.cloud.google.com/?show=ide%2Cterminal).
   2. Run this command:
       ```bash
+      docker kill $(docker ps -q)
+      docker rm $(docker ps -a -q)
+      docker rmi $(docker images -q)
+      clear
       docker run -p 8080:80 -e RESOLUTION=1400x720 -d dorowu/ubuntu-desktop-lxde-vnc
       ```
   3. Wait for the container to start.
