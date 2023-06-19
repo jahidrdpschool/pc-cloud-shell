@@ -9,7 +9,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
   ## Step 1: Launch the first Ubuntu Desktop instance
 
-  2. Run this command:
+  1. Run this command:
       ```bash
       docker kill $(docker ps -q)
       docker rm $(docker ps -a -q)
@@ -21,8 +21,8 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       echo "Access Link: https://localhost:8080"
       echo ""
       ```
-  3. Wait for the container to start.
-  4. Open this URL in a new tab of your web browser
+  2. Wait for the container to start.
+  3. Open this URL in a new tab of your web browser
 
   ## Step 2: Launch additional Ubuntu Desktop instances
   1. Close the Google Cloud Shell tab, but keep the Ubuntu Desktop tab open.
