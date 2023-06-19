@@ -23,6 +23,6 @@ echo ""
 ```
 
 ```bash
-chmod +x multiple-pc.sh
-./multiple-pc.sh
+chmod +x pc-cloud-shell/multiple-pc.sh
+./pc-cloud-shell/multiple-pc.sh
 ```
