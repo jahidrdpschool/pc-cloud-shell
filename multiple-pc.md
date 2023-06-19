@@ -1,5 +1,12 @@
 # Multiple PC
 
+## Github Repo Download (1st Time Only):
+
+```bash
+git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
+```
+
+
 ## Try running a command now:
 
 ```bash
