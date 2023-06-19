@@ -3,7 +3,7 @@
   ## Step 1: Launch the first Ubuntu Desktop instance
   1. Open Google Cloud Shell.
   2. Run this command:
-      ```
+      ```bash
       docker run -p 8080:80 -e RESOLUTION=1400x720 -d dorowu/ubuntu-desktop-lxde-vnc
       ```
   3. Wait for the container to start.
@@ -20,7 +20,7 @@
       https://shell.cloud.google.com/
       ```
   3. Open a new terminal and run this command to start a new Ubuntu Desktop container:
-      ```
+      ```bash
       docker run -p 8011:80 -e RESOLUTION=1400x720 -v /dev/shm:/dev/shm dorowu/ubuntu-desktop-lxde-vnc
       ```
   4. Open a new tab in your web browser and go to:
