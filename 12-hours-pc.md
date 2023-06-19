@@ -1,5 +1,11 @@
   # Multiple Ubuntu Desktop Instances Tutorial
 
+## Github Repo Download (1st Time Only):
+
+```bash
+git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
+```
+
   ## Step 1: Launch the first Ubuntu Desktop instance
   1. Open Google Cloud [Shell](https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=terminal&authuser=1).
   2. Run this command:
