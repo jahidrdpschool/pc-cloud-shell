@@ -38,10 +38,8 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       echo ""
       docker run -p 8011:80 -e RESOLUTION=1400x720 -v /dev/shm:/dev/shm dorowu/ubuntu-desktop-lxde-vnc
       ```
-  4. Open a new tab in your web browser and go to:
-      ```
-      https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8011&environment_id=default
-      ```
+  4. Open https://localhost:8011 this URL in a new tab of web browser
+
   5. This will open another Ubuntu Desktop instance in a new tab.
 
   ## Step 3: Automate launching multiple Ubuntu Desktop instances
