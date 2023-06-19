@@ -38,6 +38,6 @@ docker run -p 8090:6080 -d colinhuang/wine-with-novnc > /dev/null 2>&1
 echo ""
 echo "https://localhost:8090"
 echo "Or"
-echo "https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8090&environment_id=default"
+echo "https://shell.cloud.google.com/devshell/proxy?port=8090&environment_id=default&authuser=1"
 echo ""
 ```
