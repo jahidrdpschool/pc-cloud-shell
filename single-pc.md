@@ -35,8 +35,9 @@ docker rmi $(docker images -q)
 clear
 echo "Downloading the Docker Image"
 docker run -p 8080:6080 -d colinhuang/wine-with-novnc > /dev/null 2>&1
-echo "Downloaded, running"
+echo ""
 echo "usually https://localhost:6080"
 echo "Or"
 echo "usually https://shell.cloud.google.com/devshell/proxy?authuser=1&port=6080&environment_id=default"
+echo ""
 ```
