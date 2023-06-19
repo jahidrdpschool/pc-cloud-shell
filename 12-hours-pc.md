@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Multiple Ubuntu Desktop Instances Tutorial</title>
-</head>
-<body>
   # Multiple Ubuntu Desktop Instances Tutorial
 
   ## Step 1: Launch the first Ubuntu Desktop instance
@@ -70,5 +64,3 @@
      https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8003&environment_id=default
      ```
   3. Open YouTube in each instance and play videos to simulate watch time across multiple sessions.
-</body>
-</html>
