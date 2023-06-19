@@ -64,7 +64,6 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       }
       ```
   3. Follow the prompts to enter the number of PCs you want to launch.
-  4. The script will start the specified number of Ubuntu Desktop instances and provide you with access links for each instance.
 
   ## Step 4: Access and use multiple Ubuntu Desktop instances
   1. Go back to your main Chrome browser.
