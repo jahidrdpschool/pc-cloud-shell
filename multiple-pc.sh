@@ -6,7 +6,7 @@ download_and_run() {
 
   docker run -p $port:80 -e RESOLUTION=1400x720 -d dorowu/ubuntu-desktop-lxde-vnc > /dev/null 2>&1
   echo ""
-  echo "Access Link $index: https://shell.cloud.google.com/devshell/proxy?authuser=1&port=$port&environment_id=default"
+  echo "Access Link $index: https://localhost:$port"
   echo ""
 }
 
