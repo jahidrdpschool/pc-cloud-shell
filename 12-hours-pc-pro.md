@@ -28,15 +28,12 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
   ## Step 2: Launch additional Ubuntu Desktop
 
-  1. Ubuntu Desktop: Login to your [Gmail](https://gmail.com) account.
-  2. Ubuntu Desktop:  and go to:-
-      ```
-      https://shell.cloud.google.com/
-      ```
-  3. Ubuntu Desktop: Go to:
+  1. novnc2: Go to:
       ```
       https://github.com/jahidrdpschool/pc-cloud-shell/blob/main/12-hours-pc-pro.md
       ```
+  1. novnc2: Login to your [Gmail](https://gmail.com) account.
+  2. novnc2: Go to Google Cloud [Shell](https://shell.cloud.google.com).
 
   ## Step 3: Automate launching multiple Ubuntu Desktop
   1. Open a new terminal in Google Cloud Shell.
