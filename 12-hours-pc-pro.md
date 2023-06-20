@@ -31,17 +31,8 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       ```
       https://shell.cloud.google.com/
       ```
-  3. Open a new terminal and run this command to start a new Ubuntu Desktop container:
-      ```bash
-      clear
-      echo ""
-      echo "Access Link: https://localhost:8011"
-      echo ""
-      docker run -p 8011:80 -e RESOLUTION=1400x720 -v /dev/shm:/dev/shm dorowu/ubuntu-desktop-lxde-vnc
-      ```
-  4. Open https://localhost:8011 this URL in a new tab of web browser
 
-  ## Step 3: Automate launching multiple Ubuntu Desktop instances
+  ## Step 3: Automate launching multiple Ubuntu Desktop
   1. Open a new terminal in Google Cloud Shell.
   2. Run this script:
       ```bash
