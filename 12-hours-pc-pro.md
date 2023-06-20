@@ -50,9 +50,9 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
   ## Step 4: Access and use multiple novnc2
   1. Go back to your main Chrome browser.
-
   2. This CMD for first to last link.
-  novnc2: Go to LXTerminal:
+  
+      (i). novnc2: Go to LXTerminal:
       ```
       firefox https://www.youtube.com/playlist?list=UUod4ghzC9jGkBppMWTawDqQ
       ```
@@ -79,12 +79,6 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
       Link 10: [https://shell.cloud.google.com/devshell/proxy?port=8010&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8010&environment_id=default&authuser=1)
 
-  3. Open YouTube in each instance and play videos to simulate watch time across multiple sessions.
+  3. novnc2: Now click on "Play all" then click on "Loop Icon"
 
-  ## Step 5: This CMD for first to last link
-
-  1. novnc2: Go to LXTerminal:
-      ```
-      firefox https://www.youtube.com/playlist?list=UUod4ghzC9jGkBppMWTawDqQ
-      ```
-  2. novnc2: Now click on "Play all" then click on "Loop Icon"
+  4. Open YouTube in each PC and play videos to simulate watch time across multiple sessions.
