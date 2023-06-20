@@ -28,7 +28,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
   ## Step 2: Launch additional Ubuntu Desktop
 
-  1.Ubuntu Desktop: Login to your [Gmail](https://gmail.com) account
+  1. Ubuntu Desktop: Login to your [Gmail](https://gmail.com) account.
   2. Ubuntu Desktop:  and go to:-
       ```
       https://shell.cloud.google.com/
