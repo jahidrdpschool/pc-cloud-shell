@@ -23,7 +23,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       echo ""
       ```
   2. Wait for the container to start.
-  3. Click on "Access Link: https://localhost:8080"
+  3. Cloud Shell Click on "Access Link: https://localhost:8080"
   4. Close the Cloud Shell tab, but keep the novnc2 tab open.
 
   ## Step 2: Launch novnc2
