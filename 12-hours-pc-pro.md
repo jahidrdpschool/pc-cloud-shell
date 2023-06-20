@@ -31,7 +31,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   1. novnc2: Go to LXTerminal:
       ```
       firefox https://mail.google.com
-      firefox https://github.com/jahidrdpschool/pc-cloud-shell/blob/main/12-hours-pc-pro.md https://shell.cloud.google.com
+      firefox https://github.com/jahidrdpschool/pc-cloud-shell/blob/main/12-hours-pc-pro.md https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=terminal
 
       ```
   1. novnc2: Login to your [Gmail](https://mail.google.com) account.
