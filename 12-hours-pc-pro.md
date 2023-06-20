@@ -59,7 +59,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       ```
       [All] (2). novnc2: Now click on "Play all" then click on "Loop Icon"
 
-  ## All Access Link:
+All Access Link:
 
       Link 1: [https://shell.cloud.google.com/devshell/proxy?port=8001&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8001&environment_id=default&authuser=1)
 
