@@ -53,7 +53,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   2. This CMD for Link 1 to Link 10.
   
 
-     [All] (1). novnc2: Paste on Clipboard & Go to LXTerminal & Paste:
+     [All] (1). novnc2: Go to LXTerminal & Paste on Clipboard & Paste on LXTerminal:
       ```
       firefox https://www.youtube.com/playlist?list=UUod4ghzC9jGkBppMWTawDqQ
 
