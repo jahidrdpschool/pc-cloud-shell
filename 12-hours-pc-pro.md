@@ -58,7 +58,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
       ```
 
-  2. Now go to this URLs:
+  2. All Access Link:
 
       Link 1: [https://shell.cloud.google.com/devshell/proxy?port=8001&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8001&environment_id=default&authuser=1)
 
