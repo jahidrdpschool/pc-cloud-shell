@@ -50,7 +50,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
   ## Step 4: Access and use multiple novnc2
   1. Go back to your main Chrome browser.
-  2. This CMD for first to last link.
+  2. This CMD for Link 1 to Link 10.
   
       (i) novnc2: Go to LXTerminal:
       ```
