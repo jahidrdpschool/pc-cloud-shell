@@ -23,7 +23,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       echo ""
       ```
   2. Wait for the container to start.
-  3. Open this "https://localhost:8080" URL in a new tab of your web browser
+  3. Open this "Access Link: https://localhost:8080" URL in a new tab of your web browser
 
   ## Step 2: Launch additional Ubuntu Desktop
   1. Close the Google Cloud Shell tab, but keep the Ubuntu Desktop tab open.
