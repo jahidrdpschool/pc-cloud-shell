@@ -80,6 +80,5 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
       Link 10: [https://shell.cloud.google.com/devshell/proxy?port=8010&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8010&environment_id=default&authuser=1)
 
-  3. novnc2: Now click on "Play all" then click on "Loop Icon"
+   3. novnc2: Now click on "Play all" then click on "Loop Icon"
 
-  4. Open YouTube in each PC and play videos to simulate watch time across multiple sessions.
