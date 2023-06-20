@@ -52,9 +52,10 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   1. Go back to your main Chrome browser.
   2. This CMD for Link 1 to Link 10.
   
-      [i] novnc2: Go to LXTerminal:
+      [i] novnc2: Paste on Clipboard & Go to LXTerminal & Paste:
       ```
       firefox https://www.youtube.com/playlist?list=UUod4ghzC9jGkBppMWTawDqQ
+
       ```
 
   2. Now go to this URLs:
