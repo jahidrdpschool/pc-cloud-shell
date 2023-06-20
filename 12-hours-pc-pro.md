@@ -26,7 +26,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   3. Click on "Access Link: https://localhost:8080"
   4. Close the Cloud Shell tab, but keep the novnc2 tab open.
 
-  ## Step 2: Launch additional Ubuntu Desktop
+  ## Step 2: Launch novnc2
 
   1. novnc2: Go to:
       ```
