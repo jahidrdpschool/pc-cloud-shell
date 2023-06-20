@@ -36,23 +36,8 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   1. Open a new terminal in Google Cloud Shell.
   2. Run this script:
       ```bash
-      clear
-      download_and_run() {
-        local port=$1
-        local index=$2
-
-        docker run -p $port:80 -e RESOLUTION=1400x720 -d dorowu/ubuntu-desktop-lxde-vnc > /dev/null 2>&1
-        echo ""
-        echo "Access Link $index: https://shell.cloud.google.com/devshell/proxy?authuser=1&port=$port&environment_id=default"
-        echo ""
-      }
-
-      read -p "Enter the number of PCs: " PC
-
-      for ((i = 1; i <= PC; i++)); do
-        port=$((8000 + i))
-        download_and_run $port $i
-      }
+      chmod +x pc-cloud-shell/multiple-pc.sh
+      ./pc-cloud-shell/multiple-pc.sh
       ```
   3. Follow the prompts to enter the number of PCs you want to launch.
 
