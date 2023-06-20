@@ -52,10 +52,8 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   1. Go back to your main Chrome browser.
   2. Change the port number in the URL one by one to access each Ubuntu Desktop instance.
      Example URLs:
-     ```
-     <a href="https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8001&environment_id=default">AB</a>
-     https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8002&environment_id=default
-     https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8003&environment_id=default
-     ```
+
+      [https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8001&environment_id=default](https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8001&environment_id=default)
+
   3. Open YouTube in each instance and play videos to simulate watch time across multiple sessions.
 
