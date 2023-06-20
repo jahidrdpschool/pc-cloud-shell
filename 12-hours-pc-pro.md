@@ -53,7 +53,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   2. Change the port number in the URL one by one to access each Ubuntu Desktop instance.
      Example URLs:
      ```
-     https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8001&environment_id=default
+     <a href="https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8001&environment_id=default">AB</a>
      https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8002&environment_id=default
      https://shell.cloud.google.com/devshell/proxy?authuser=1&port=8003&environment_id=default
      ```
