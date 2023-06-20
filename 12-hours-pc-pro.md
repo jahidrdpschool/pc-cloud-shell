@@ -74,3 +74,10 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
   3. Open YouTube in each instance and play videos to simulate watch time across multiple sessions.
 
+  ## Step 5: This CMD for first to last link
+
+  1. novnc2: Go to LXTerminal:
+      ```
+      firefox https://www.youtube.com/playlist?list=UUod4ghzC9jGkBppMWTawDqQ
+      ```
+  2. Now click on "Play all" then click on "Loop Icon"
