@@ -31,6 +31,10 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       ```
       https://shell.cloud.google.com/
       ```
+3. Ubuntu Desktop: Go to:
+      ```
+      https://github.com/jahidrdpschool/pc-cloud-shell/blob/main/12-hours-pc-pro.md
+      ```
 
   ## Step 3: Automate launching multiple Ubuntu Desktop
   1. Open a new terminal in Google Cloud Shell.
