@@ -80,4 +80,4 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       ```
       firefox https://www.youtube.com/playlist?list=UUod4ghzC9jGkBppMWTawDqQ
       ```
-  2. Now click on "Play all" then click on "Loop Icon"
+  2. novnc2: Now click on "Play all" then click on "Loop Icon"
