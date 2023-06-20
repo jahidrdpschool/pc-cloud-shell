@@ -42,7 +42,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       chmod +x pc-cloud-shell/multiple-pc.sh
       ./pc-cloud-shell/multiple-pc.sh
       ```
-  3. Follow the prompts to enter the number of PCs you want to launch.
+  3. Follow the prompts to enter the number of 11 PC you want to launch.
   4. Ubuntu Desktop: Go to:
   Access Link 11: https://localhost:8011
 
