@@ -30,7 +30,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
   1. novnc2: Go to:
       ```
-      https://github.com/jahidrdpschool/pc-cloud-shell/blob/main/12-hours-pc-pro.md
+      https://github.com/jahidrdpschool/pc-cloud-shell/blob/main/12-hours-pc-pro.md#:~:text=Step%202%3A%20Launch%20novnc2
       ```
   1. novnc2: Login to your [Gmail](https://gmail.com) account.
   2. novnc2: Go to Google Cloud [Shell](https://shell.cloud.google.com).
