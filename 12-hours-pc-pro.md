@@ -43,7 +43,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       ./pc-cloud-shell/multiple-pc.sh
       ```
   3. novnc2: Follow the prompts to enter the number of 11 PC you want to launch.
-  4. novnc2: Close the "Github Repository" tab, Click on: "Access Link 11: https://localhost:8011"
+  4. novnc2: Close the "Github Repository" tab, Cloud Shell Click on: "Access Link 11: https://localhost:8011"
 
 
   ## Step 4: Access and use multiple novnc2
