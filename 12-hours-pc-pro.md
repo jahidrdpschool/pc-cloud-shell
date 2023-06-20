@@ -84,6 +84,8 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
       Link 10: [https://shell.cloud.google.com/devshell/proxy?port=8010&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8010&environment_id=default&authuser=1)
 
+      Link 11: [https://shell.cloud.google.com/devshell/proxy?port=8011&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8011&environment_id=default&authuser=1)
+
 
 
 Keep Alive Link: [https://shell.cloud.google.com/devshell/proxy?port=8080&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8080&environment_id=default&authuser=1)
