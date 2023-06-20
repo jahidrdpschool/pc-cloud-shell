@@ -52,14 +52,17 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   1. Go back to your main Chrome browser.
   2. This CMD for Link 1 to Link 10.
   
-      [All] (1). novnc2: Paste on Clipboard & Go to LXTerminal & Paste:
+
+     [All] (1). novnc2: Paste on Clipboard & Go to LXTerminal & Paste:
       ```
       firefox https://www.youtube.com/playlist?list=UUod4ghzC9jGkBppMWTawDqQ
 
       ```
-      [All] (2). novnc2: Now click on "Play all" then click on "Loop Icon"
 
-      All Access Link:
+     [All] (2). novnc2: Now click on "Play all" then click on "Loop Icon"
+
+
+     All Access Link:
 
       Link 1: [https://shell.cloud.google.com/devshell/proxy?port=8001&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8001&environment_id=default&authuser=1)
 
