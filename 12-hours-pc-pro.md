@@ -35,7 +35,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   1. novnc2: Login to your [Gmail](https://gmail.com) account.
   2. novnc2: Go to Google Cloud [Shell](https://shell.cloud.google.com).
 
-  ## Step 3: Automate launching multiple Ubuntu Desktop
+  ## Step 3: Automate launching multiple novnc2
   1. Open a new terminal in Google Cloud Shell.
   2. Run this script:
       ```bash
@@ -46,7 +46,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   4. novnc2: Go to: "Access Link 11: https://localhost:8011"
 
 
-  ## Step 4: Access and use multiple Ubuntu Desktop instances
+  ## Step 4: Access and use multiple novnc2
   1. Go back to your main Chrome browser.
   2. Change the port number in the URL one by one to access each Ubuntu Desktop instance.
      Example URLs:
