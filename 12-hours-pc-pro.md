@@ -50,8 +50,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
   ## Step 4: Access and use multiple novnc2
   1. Go back to your main Chrome browser.
-  2. Now go to
-     This URLs:
+  2. Now go to this URLs:
 
       Link 1: [https://shell.cloud.google.com/devshell/proxy?port=8001&environment_id=default&authuser=1](https://shell.cloud.google.com/devshell/proxy?port=8001&environment_id=default&authuser=1)
 
