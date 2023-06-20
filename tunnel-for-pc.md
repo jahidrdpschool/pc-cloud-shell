@@ -14,7 +14,7 @@ jprq auth <your-auth-token>
 
 ### Run
 ```bash
-jprq http 6079 -s custom
+jprq http 8080 -s custom
 ```
 
 
@@ -38,7 +38,7 @@ unzip ngrok-stable-linux-amd64.zip
 
 ### Run
 ```bash
-./ngrok http 6079
+./ngrok http 8080
 ```
 
 
@@ -46,5 +46,5 @@ unzip ngrok-stable-linux-amd64.zip
 
 ### Run
 ```bash
-ssh -R 80:localhost:6079 serveo.net
+ssh -R 80:localhost:8080 serveo.net
 ```
