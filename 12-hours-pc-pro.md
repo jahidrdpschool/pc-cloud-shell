@@ -43,8 +43,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       ./pc-cloud-shell/multiple-pc.sh
       ```
   3. Follow the prompts to enter the number of 11 PC you want to launch.
-  4. novnc2: Go to:
-  Access Link 11: https://localhost:8011
+  4. novnc2: Go to: "Access Link 11: https://localhost:8011"
 
 
   ## Step 4: Access and use multiple Ubuntu Desktop instances
