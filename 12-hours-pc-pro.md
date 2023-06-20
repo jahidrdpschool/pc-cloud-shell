@@ -28,11 +28,12 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 
   ## Step 2: Launch additional Ubuntu Desktop
 
-  2. Ubuntu Desktop: Login to your Gmail account and go to:-
+  1.Ubuntu Desktop: Login to your [Gmail](https://gmail.com) account
+  2. Ubuntu Desktop:  and go to:-
       ```
       https://shell.cloud.google.com/
       ```
-3. Ubuntu Desktop: Go to:
+  3. Ubuntu Desktop: Go to:
       ```
       https://github.com/jahidrdpschool/pc-cloud-shell/blob/main/12-hours-pc-pro.md
       ```
