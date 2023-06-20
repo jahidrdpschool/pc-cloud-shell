@@ -1,4 +1,4 @@
-  # Multiple Ubuntu Desktop
+  # Multiple noVNC
 
 ## Github Repo Download (1st Time Only):
 
@@ -8,7 +8,7 @@
 git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
 ```
 
-  ## Step 1: Launch the first Ubuntu Desktop
+  ## Step 1: Launch the first novnc2
 
   1. Run this command:
       ```bash
