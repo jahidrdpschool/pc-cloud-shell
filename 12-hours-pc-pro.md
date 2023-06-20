@@ -36,14 +36,15 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
   2. novnc2: Go to Google Cloud [Shell](https://shell.cloud.google.com).
 
   ## Step 3: Automate launching multiple novnc2
-  1. Open a new terminal in Google Cloud Shell.
-  2. Run this script:
+  1. novnc2: Open a new terminal in Google Cloud Shell.
+  2. novnc2: Run this script:
       ```bash
       chmod +x pc-cloud-shell/multiple-pc.sh
       ./pc-cloud-shell/multiple-pc.sh
       ```
-  3. Follow the prompts to enter the number of 11 PC you want to launch.
+  3. novnc2: Follow the prompts to enter the number of 11 PC you want to launch.
   4. novnc2: Go to: "Access Link 11: https://localhost:8011"
+  5. novnc2: Close the "Github Repository" tab
 
 
   ## Step 4: Access and use multiple novnc2
