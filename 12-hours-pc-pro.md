@@ -24,9 +24,10 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       ```
   2. Wait for the container to start.
   3. Click on "Access Link: https://localhost:8080"
+  4. Close the Cloud Shell tab, but keep the novnc2 tab open.
 
   ## Step 2: Launch additional Ubuntu Desktop
-  1. Close the Google Cloud Shell tab, but keep the Ubuntu Desktop tab open.
+
   2. Ubuntu Desktop: Login to your Gmail account and go to:-
       ```
       https://shell.cloud.google.com/
