@@ -33,7 +33,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       firefox https://shell.cloud.google.com https://github.com/jahidrdpschool/pc-cloud-shell/blob/main/12-hours-pc-pro.md
 
       ```
-  1. novnc2: Login to your [Gmail](https://mail.google.com) account & Close all Tab.
+  1. novnc2: Login to your [Gmail](https://mail.google.com) account
   2. novnc2: Go to Google Cloud [Shell](https://shell.cloud.google.com) Tab.
 
   ## Step 3: Automate launching multiple novnc2
