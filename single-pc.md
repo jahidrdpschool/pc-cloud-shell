@@ -8,19 +8,6 @@ docker rm $(docker ps -a -q)
 docker rmi $(docker images -q)
 clear
 echo ""
-echo "Access Link: https://localhost:6079"
-echo ""
-docker run -p 6079:80 -e RESOLUTION=1400x720 -v /dev/shm:/dev/shm dorowu/ubuntu-desktop-lxde-vnc
-```
-
-Or
-
-```bash
-docker kill $(docker ps -q)
-docker rm $(docker ps -a -q)
-docker rmi $(docker images -q)
-clear
-echo ""
 echo "Access Link: https://localhost:8080"
 echo ""
 docker run -p 8080:80 -e RESOLUTION=1400x720 -v /dev/shm:/dev/shm dorowu/ubuntu-desktop-lxde-vnc
