@@ -21,9 +21,9 @@ docker rm $(docker ps -a -q)
 docker rmi $(docker images -q)
 clear
 echo "Downloading the Docker Image"
-docker run -p 8090:6080 -d colinhuang/wine-with-novnc > /dev/null 2>&1
+docker run -p 8080:6080 -d colinhuang/wine-with-novnc > /dev/null 2>&1
 echo ""
-echo "https://localhost:8090"
+echo "https://localhost:8080"
 echo "Or"
 echo "https://shell.cloud.google.com/devshell/proxy?port=8090&environment_id=default&authuser=1"
 echo ""
