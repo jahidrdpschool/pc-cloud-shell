@@ -41,6 +41,7 @@ git clone https://github.com/jahidrdpschool/pc-cloud-shell.git
       ```bash
       chmod +x pc-cloud-shell/multiple-pc.sh
       ```
+      +
       ```bash
       ./pc-cloud-shell/multiple-pc.sh
       ```
